@@ -1,7 +1,42 @@
 #player1 {
   background-color: #D5F5E3;
+  border-radius: 308px;
 }
 
 #player2 {
   background-color: #FAE5D3;
+  border-radius: 308px;
+}
+
+.player-name {
+  font-size: 50px;
+  text-align: center;
+}
+
+.player-score {
+  text-align: center;
+  font-size: 20px;
+  background-color: #EC7063;
+  width: 100px;
+  height: auto;
+  margin-left: 250px;
+}
+
+.player-current-box {
+  text-align: center;
+  font-size: 20px;
+  background-color: #CACFD2;
+  width: 100px;
+  height: auto;
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-bottom: 50px;
+}
+#lowerButton{
+  margin-top: 50px;
+  margin-left: 500px;
+}
+#upperButton{
+  margin-top: 50px;
+  margin-left: 500px;
 }
