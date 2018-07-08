@@ -18,7 +18,7 @@
   font-size: 20px;
   background-color: #EC7063;
   width: 100px;
-  height: auto;
+  height: 72px;
   margin-left: 250px;
 }
 
@@ -34,9 +34,19 @@
 }
 #lowerButton{
   margin-top: 50px;
-  margin-left: 500px;
+  margin-left: 530px;
 }
 #upperButton{
   margin-top: 50px;
-  margin-left: 500px;
+  margin-left: 530px;
+  margin-bottom: 50px;
+}
+.dice {
+  margin-top: 100px;
+    position: absolute;
+    left: 50%;
+    top: 178px;
+    transform: translateX(-50%);
+    height: 100px;
+    box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.10);
 }
