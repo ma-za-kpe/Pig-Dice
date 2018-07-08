@@ -15,6 +15,7 @@ $(document).ready(function () {
     var player1 = new Dice();
   //  var activePlayer = 0;
     $("#current-" + player1.activePlayer).text(player1.roll());
+    $(".dice").css("display","block");
   });
 
 //  $("#current-"+ player1.activePlayer).val(" ");
