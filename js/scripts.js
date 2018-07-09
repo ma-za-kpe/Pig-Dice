@@ -17,7 +17,6 @@ $(document).ready(function () {
   $("#score-1").text('0');
   $("button#roll").on('click', function(event) {
     var player1 = new Dice();
-  //  var activePlayer = 0;
     $("#current-" + player1.activePlayer).text(player1.roll());
     $(".dice").css("display","block");
     $(".dice").attr("src","images/dice-" + player1.roll() + ".png");
