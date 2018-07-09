@@ -26,7 +26,7 @@ include HTML, CSS, AND  JAVASCRIPT, use of API services.
 
 ## link to live site on GitHub Pages
 
-<https://ma-za-kpe.github.io/ping-pong/>
+<https://ma-za-kpe.github.io/Pig-Dice/>
 
 ## License info
 
